@@ -1,0 +1,4 @@
+interface:
+  display_name: "方比比内容 Agent"
+  short_description: "方比比选题采访重构标题流量自检阶段化内容生产专用助手"
+  default_prompt: "Use $fang-bibi-content-agent to judge a 方比比 content task, route it to the right stage, and produce only the current-stage output."
